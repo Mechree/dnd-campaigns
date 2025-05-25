@@ -7,7 +7,7 @@
 - **Start Date:** 2024
 - **Current Date (In-Game):** Unknown
 - **Setting/World:** [Icewind Dale](https://forgottenrealms.fandom.com/wiki/Icewind_Dale)
-- **Main Plot Summary:** A tale of dark terror that revisits the forlorn, flickering candlelights of civilization known as Ten-Towns and sheds light on the many bone-chilling locations that surround these frontier settlements.
+- **Main Plot Summary:** A tale of dark terror that revisits the forlorn, flickering candlelight's of civilization known as Ten-Towns and sheds light on the many bone-chilling locations that surround these frontier settlements.
 
 ## Party Members
 
@@ -17,6 +17,12 @@
 - Zantian / Paladin - Kurt
 - Vandross / Warrior - Adam
 - Guuch / Rogue - Jason
+
+## Loot & Rewards
+
+| Item           | Description     | Who Has It? |
+| -------------- | --------------- | ----------- |
+| Leprechaun Hat | Hat of Disguise | Zantian     |
 
 ## World Notes
 
